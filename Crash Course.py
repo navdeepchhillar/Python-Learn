@@ -19,6 +19,6 @@
 # print("num1 ** num2", num1 ** num2)
 # print("num1 % num2", num1 % num2)
 
-import pandas
-df=pandas.read_csv('Task.csv')
-print(df)
+# import pandas
+# df=pandas.read_csv('Task.csv')
+# print(df)
